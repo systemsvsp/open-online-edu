@@ -1,4 +1,4 @@
-# Open Online Education Collaboration and Learning Environment (Sakai CLE)
+# Open Online Education Collaboration and Learning Environment (OOEDU LMS)
 
 This is the source code for the OOEdu.
 
