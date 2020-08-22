@@ -7,7 +7,7 @@ The other branches are currently or previously supported releases. See below for
 
 ## Building
 
-To build Sakai you need Java 1.8. Once you have clone a copy of this repository you can
+To build OOEdu you need Java 1.8. Once you have clone a copy of this repository you can
 build it by running (or `./mvnw install` if you don't have Maven installed):
 ```
 mvn install
@@ -29,7 +29,7 @@ cd /path/to/your/tomcat/bin
 ./startup.sh && tail -f ../logs.catalina.out
 ```
 
-Once Sakai has started up (it usually takes around 30 seconds), open your browser and navigate to http://localhost:8080/portal
+Once OOEdu has started up (it usually takes around 30 seconds), open your browser and navigate to http://localhost:8080/portal
 
 ## Licensing
 
