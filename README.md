@@ -42,7 +42,7 @@ OoEdu is an Open Online Education project and follows the Foundation's guideline
 See [our dedicated page](CONTRIBUTING.md) for more information on contributing to OoEdu.
 
 ## Get in touch
-If you have any questions, please join the Sakai developer mailing list: To subscribe send an email to sakai-dev+subscribe@apereo.org
+If you have any questions, please join the Sakai developer mailing list: To subscribe send an email to systemsvsp@gmail.com
 
 If you want more immediate response during M-F typical business hours you could try our Slack channels.
 
@@ -81,4 +81,4 @@ From its inception, the OOEdu project has been envisioned and designed for globa
 
 ### Other languages
 
-Other languages have been declared legacy in Sakai 19.
+Other languages can be used depends on the usage.
